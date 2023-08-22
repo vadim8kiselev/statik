@@ -1,0 +1,5 @@
+target/statik-1.0-SNAPSHOT.jar
+target/classes/com/kiselev/statik/StatikApplication
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+.vscode/launch.json
